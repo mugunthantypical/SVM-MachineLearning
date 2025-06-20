@@ -54,7 +54,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 ```
 
 ## Dataset
-The notebook uses the UCI Heart Disease dataset.
+The notebook uses the [UCI Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
 ## License
 This project is for educational and research purposes.
